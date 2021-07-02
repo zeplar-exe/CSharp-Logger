@@ -2,7 +2,7 @@
 
 A simple logging package that replicates python's logging library.
 
-NuGet Package: soon
+NuGet Package: https://www.nuget.org/packages/CSharp-Logger/1.0.1
 
 # Installation
 
