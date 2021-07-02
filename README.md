@@ -32,7 +32,7 @@ Loger logger = new Logger();
 logger.CatchLog += MyLogCatcher;
 ```
 
-CatchLog has two parameters, `(Logger logger, CatchLogEvent args)
+CatchLog has two required parameters, `(Logger logger, CatchLogEvent args)`
 CatchLogEvent exposes the type of log and message.
 
 ## Other stuff
