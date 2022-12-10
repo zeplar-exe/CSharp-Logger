@@ -1,3 +1,4 @@
+## This project is discontinued
 # CSharp-Logger
 
 A simple logging package that replicates python's logging library.
